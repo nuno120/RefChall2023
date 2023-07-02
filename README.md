@@ -7,9 +7,10 @@ The data is organized into the following folders:
 
 - [Phone Camera Data](https://drive.google.com/drive/folders/1Djf08R4_V_pmfwGo8ArrQP0Fh2_QT-L-?usp=sharing): This folder contains phone camera data captured for the RefChall2023 project.
 
-- [Flipped Phone Camera Data](https://drive.google.com/drive/folders/1ahcp1RxnblwFw12lzUhCCg2Rh9MJ-CUt?usp=sharing): This folder contains flipped phone camera data, which can be used for specific purposes in the RefChall2023 project.
+- [Flipped Phone Camera Data](https://drive.google.com/drive/folders/1ahcp1RxnblwFw12lzUhCCg2Rh9MJ-CUt?usp=sharing): This folder contains flipped phone camera data.
 
 - [Filtered Synthetic Data Videos](https://drive.google.com/drive/folders/1UrIsa4aTwmriCEGGBAUuCYwvyMIwRHoU?usp=sharing): This folder contains filtered synthetic data videos that were created using Unity.
+- [Nao video's](https://drive.google.com/drive/folders/1QDIIl79lVmP6LSYIN92a7_ZuIUEZBuBS?usp=sharing): This folder contains the dataset we filmed on the NAO robots
 
 ## Model Files
 
