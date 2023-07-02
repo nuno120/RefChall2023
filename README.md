@@ -1,7 +1,7 @@
 # RefChall2023
 Welcome to the RefChall2023 GitHub repository! This repository contains data and model files related to phone camera data, flipped phone camera data, and filtered synthetic data videos created with Unity. It also includes model files for Movenet and data created using OpenPose.
 
-## Data
+## Video Data
 
 The data is organized into the following folders:
 
@@ -10,7 +10,7 @@ The data is organized into the following folders:
 - [Flipped Phone Camera Data](https://drive.google.com/drive/folders/1ahcp1RxnblwFw12lzUhCCg2Rh9MJ-CUt?usp=sharing): This folder contains flipped phone camera data.
 
 - [Filtered Synthetic Data Videos](https://drive.google.com/drive/folders/1UrIsa4aTwmriCEGGBAUuCYwvyMIwRHoU?usp=sharing): This folder contains filtered synthetic data videos that were created using Unity.
-- [Nao video's](https://drive.google.com/drive/folders/1QDIIl79lVmP6LSYIN92a7_ZuIUEZBuBS?usp=sharing): This folder contains the dataset we filmed on the NAO robots
+- [Nao video's](https://drive.google.com/drive/folders/1QDIIl79lVmP6LSYIN92a7_ZuIUEZBuBS?usp=sharing): This folder contains the dataset we filmed on the NAO V6 robots
 
 ## Model Files
 
