@@ -6,7 +6,7 @@ Welcome to the Referee Challlenge 2023 GitHub repository! This repository contai
 The data is organized into the following folders:
 
 - [Phone Camera Data](https://drive.google.com/drive/folders/1Djf08R4_V_pmfwGo8ArrQP0Fh2_QT-L-?usp=sharing): This folder contains phone camera data captured for the our project.
-
+-The video's are flipped to create more data using flip.py
 - [Filtered Synthetic Data Videos](https://drive.google.com/drive/folders/1UrIsa4aTwmriCEGGBAUuCYwvyMIwRHoU?usp=sharing): This folder contains filtered synthetic data videos that were created using Unity.
 - [Nao video's](https://drive.google.com/drive/folders/1QDIIl79lVmP6LSYIN92a7_ZuIUEZBuBS?usp=sharing): This folder contains the dataset we filmed on the NAO V6 robots
 
