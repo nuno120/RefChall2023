@@ -20,14 +20,6 @@ The model files for Movenet and OpenPose can be found in the following folder:
 
 To use OpenposeCNN, you can clone the [Lightweight Openpose](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch) repository and follow the instructions provided. Place the `OpenposeCNN.py` script in the main folder of the cloned repository.
 
-## How to Use
-
-1. Clone this repository to your local machine using the following command:
-
-2. Download the required data and model files from the provided Google Drive links.
-
-3. Follow the instructions specific to each component or model to use them effectively.
-
 
 Contributors:
 Dario Xavier Catarrinho, Lasse van Iterson, Joey van der Kaaij, Fiona Nagelhout, Nils Peters, Nuno Scholten, Arnoud Visser
