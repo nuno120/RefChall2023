@@ -1,5 +1,13 @@
 # RefChall2023
-Welcome to the Referee Challlenge 2023 GitHub repository! This repository contains data and model files related to phone camera data, flipped phone camera data, and filtered synthetic data videos created with Unity. It also includes model files for Movenet and data created using OpenPose.
+Welcome to our Referee Challenge 2023 GitHub repository!
+
+This repository contains our work on developing a CNN-LSTM model to classify movements. We began by using Movenet and PoseNet to extract skeleton keypoints over several seconds, which served as input for the LSTM model to classify different movements.
+
+To create the necessary datasets, we filmed numerous videos using both phone cameras and NAO robots, then augmented these videos and generated synthetic data using Unity. The results of our analysis can be found in the accompanying PDF.
+
+Our most promising outcome was an accuracy rate of nearly 90% on the phone camera data. Unfortunately, this performance did not transfer well to the NAO videos, but we believe that this can be improved with additional data.
+
+This repository also includes data and model files related to phone camera data, flipped phone camera data, and filtered synthetic videos generated with Unity. Additionally, it contains model files for Movenet and data generated using OpenPose.
 
 ## Video Data
 
